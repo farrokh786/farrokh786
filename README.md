@@ -6,7 +6,7 @@ Cloud & DevOps Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Python
 
 ## 👋 About Me
 
-Hi! I'm Mohammed Farrokhaali, a passionate Cloud & DevOps Engineer with over 3+ years of experience designing and deploying secure, scalable infrastructure across **Azure** and **AWS**. I specialize in building production-grade CI/CD pipelines, automating deployments, and integrating monitoring and security into cloud-native systems.
+Hi! I'm Mohammed Farrokhaali, a passionate Cloud & DevOps Engineer with over 5 years of experience designing and deploying secure, scalable infrastructure across **Azure** and **AWS**. I specialize in building production-grade CI/CD pipelines, automating deployments, and integrating monitoring and security into cloud-native systems.
 
 I've worked with top-tier teams at **TCS**, **Carelon**, and **Nova Media**, delivering real-world impact through automation, reliability, and DevSecOps practices.
 
