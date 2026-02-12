@@ -1,6 +1,6 @@
  👨‍💻 Mohammed Farrokhaali
 
-Cloud & DevOps Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Python
+Cloud & DevOps Engineer | Trading systems | AWS & Azure | CI/CD | Kubernetes | Terraform | Python
 
 ---
 
